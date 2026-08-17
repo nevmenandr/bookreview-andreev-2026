@@ -1,11 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: >-
   Код и результаты для рецензии на книгу «“Пунцовой цифрою”:
   квантитативный анализ лирики Владимира Набокова» В. С.
   Андреева (2025)
 message: >-
-  Если вы используете этот репозиторий в своих исследованиях, 
-  пожалуйста, цитируйте его, используя следующие метаданные.
+  Если вы используете этот репозиторий в своих
+  исследованиях,  пожалуйста, цитируйте его, используя
+  следующие метаданные.
 type: software
 authors:
   - given-names: Boris
@@ -13,6 +17,9 @@ authors:
     email: nevmenandr@gmail.com
     affiliation: HSE University
     orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21985331
 repository-code: 'https://github.com/nevmenandr/bookreview-andreev-2026'
 abstract: >-
   Этот репозиторий содержит код и результаты независимой
