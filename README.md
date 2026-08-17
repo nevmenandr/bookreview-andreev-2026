@@ -1,4 +1,5 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21985333.svg)](https://doi.org/10.5281/zenodo.21985333)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)]()
 [![Journal](https://img.shields.io/badge/journal-Цифровые%20гуманитарные%20исследования-blueviolet)](https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/) ![DH](https://img.shields.io/badge/digital-humanities-blue)
 
 # Код и результаты для рецензии на книгу «“Пунцовой цифрою”: квантитативный анализ лирики Владимира Набокова» В. С. Андреева
